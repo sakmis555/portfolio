@@ -15,7 +15,9 @@ export default function App({ Component, pageProps }) {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <main className={`${montserrat.variable} font-mont bg-light min-h-screen w-full`}>
+      <main
+        className={`${montserrat.variable} font-mont bg-light min-h-screen w-full dark:bg-dark`}
+      >
         <Navbar />
         <Component {...pageProps} />
         <Footer />
