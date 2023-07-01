@@ -64,9 +64,9 @@ const Experience = () => {
             company="Karwaan-VNIT"
             time="Dec'22 - Mar'23 | Part-time"
             address="Nagpur Maharashtra"
-            work="Worked on a team responsible for developing new features for Google's 
-          search engine, including improving the accuracy and relevance of search results and 
-          developing new tools for data analysis and visualization."
+            work="Developed UI of web application using react.js and tailwind CSS from scratch. Work extensively on react.js to gain exposure to advanced concepts.
+            Worked closely in the development of backend with other team members in node.js, express.js and CRUD operations in MongoDB. Tech stack used: MERN
+            "
           />
         </ul>
       </div>
