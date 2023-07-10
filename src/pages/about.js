@@ -39,6 +39,15 @@ const about = () => {
                 pretty – its about solving problems and creating intuitive,
                 enjoyable experiences for users.
               </p>
+              <p className="font-medium mb-8 ">
+                My primary focus is on building Front End Web Applications. I
+                love building dynamic, responsive and interactive web
+                applications. On the Frontend side, I code in JavaScript, CSS3,
+                and HTML5 together with frameworks like React JS, Bootstrap. On
+                the Backend side, I work with Node Js, Express Js, and MongoDB.
+                I also explored Blockchain technologies and am currently working
+                on applying the concepts in projects.
+              </p>
               <p className="font-medium "></p>
             </div>
             <div
